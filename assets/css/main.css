@@ -25,31 +25,37 @@ html, body {
 
 @media (max-width: 575.98px) {
 	#landing-container {
+		background-color: #1E1E1E;
 		background-image: url("/assets/img/background_576.jpg");
 	}
 }
 @media (min-width: 576px) and (max-width: 767.98px) {
 	#landing-container {
+		background-color: #1E1E1E;
 		background-image: url("/assets/img/background_768.jpg");
 	}
 }
 @media (min-width: 768px) and (max-width: 991.98px) {
 	#landing-container {
+		background-color: #1E1E1E;
 		background-image: url("/assets/img/background_992.jpg");
 	}
 }
 @media (min-width: 992px) and (max-width: 1199.98px) {
 	#landing-container {
+		background-color: #1E1E1E;
 		background-image: url("/assets/img/background_1200.jpg");
 	}
 }
 @media (min-width: 1200px)  and (max-width: 2559.98px) {
 	#landing-container {
+		background-color: #1E1E1E;
 		background-image: url("/assets/img/background_2560.jpg");
 	}
 }
 @media (min-width: 2560px) {
 	#landing-container {
+		background-color: #1E1E1E;
 		background-image: url("/assets/img/background.jpg");
 	}
 }
