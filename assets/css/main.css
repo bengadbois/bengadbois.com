@@ -67,7 +67,7 @@ html, body {
 
 #header {
 	background: rgb(30, 30, 30); /* fallback in case no alpha supported */
-	background: rgba(30, 30, 30, 0.85); 
+	background: rgba(30, 30, 30, 0.89); 
 	color: #EEEEEE;
 	padding: 1rem;
 }
